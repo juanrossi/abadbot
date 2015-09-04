@@ -12,7 +12,13 @@ class TraeAlfajoreListener(StreamListener):
     A listener handles to handle tweets from Ezeiza
     """
     def on_data(self, data):
-        twitter.tweet_text('Trae alfajores!', json.loads(data).get('id'))
+        tweet = json.loads(data)
+        twitter.tweet_text(
+            '@{user} Trae alfajores!'.format(
+                user=tweet.get('user').get('screen_name')
+            ),
+            tweet.get('id')
+        )
         return True
 
     def on_error(self, status):
