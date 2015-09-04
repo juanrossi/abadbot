@@ -23,5 +23,5 @@ tweets = [
     {'type': 'text', 'text': u'ABAD ROMANCE'},
     # {'type': 'text', 'text': u'Era un chiste y quedo'},
     {'type': 'text', 'text': u'¯\_(ツ)_/¯'},
-    {'type': 'text', 'text': u'Una wacha piola https://www.youtube.com/watch?v=qgKThrCj8OM'},
+    {'type': 'text', 'text': u'VIERNES! https://www.youtube.com/watch?v=qgKThrCj8OM'},
 ]
