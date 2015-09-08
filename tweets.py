@@ -21,7 +21,7 @@ tweets = [
     {'type': 'text', 'text': u'Under my umbrella-ella-ella-eh eh eh eh eh https://www.youtube.com/watch?v=CvBfHwUxHIk'},
     {'type': 'text', 'text': u'Una novia que se vista bien'},
     {'type': 'text', 'text': u'ABAD ROMANCE'},
-    # {'type': 'text', 'text': u'Era un chiste y quedo'},
+    {'type': 'text', 'text': u'.@abadbot era chiste y quedo'},
     {'type': 'text', 'text': u'¯\_(ツ)_/¯'},
     {'type': 'text', 'text': u'VIERNES! https://www.youtube.com/watch?v=qgKThrCj8OM'},
 ]
