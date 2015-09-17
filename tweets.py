@@ -27,4 +27,5 @@ tweets = [
     {'type': 'text', 'text': u'Stay hungry, stay foolish'},
     {'type': 'text', 'text': u'Odio que solo se me peguen las canciones malas.'},
     {'type': 'text', 'text': u'Quiero vivir adentro de Burger Joint'},
+    {'type': 'text', 'text': u'"I never look back, darling! It distracts from the now" - Edna Mode'}
 ]
