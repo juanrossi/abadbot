@@ -24,4 +24,7 @@ tweets = [
     {'type': 'text', 'text': u'.@abadbot era chiste y quedo'},
     {'type': 'text', 'text': u'¯\_(ツ)_/¯'},
     {'type': 'text', 'text': u'VIERNES! https://www.youtube.com/watch?v=qgKThrCj8OM'},
+    {'type': 'text', 'text': u'Stay hungry, stay foolish'},
+    {'type': 'text', 'text': u'Odio que solo se me peguen las canciones malas.'},
+    {'type': 'text', 'text': u'Quiero vivir adentro de Burger Joint'},
 ]
