@@ -7,7 +7,6 @@ tweets = [
     {'type': 'image', 'text': u'Mi fantasia sexual', 'image': 'papas.jpg'},
     {'type': 'image', 'text': u'Hoy se sale fuerte', 'image': 'pachorra.jpg'},
     {'type': 'text', 'text': u'Necesito ropa negra'},
-    {'type': 'text', 'text': u'XXXXX, que no había cerrado ese antro?'},
     {'type': 'text', 'text': u'OUR WORK IS NEVER OVER'},
     {'type': 'text', 'text': u'Not my fucking tempo'},
     {'type': 'text', 'text': u'Cuando me cierran el Mac en la cara https://vine.co/v/edzBEY1ajUa'},
