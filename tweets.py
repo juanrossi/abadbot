@@ -28,4 +28,5 @@ tweets = [
     {'type': 'text', 'text': u'Quiero vivir adentro de Burger Joint'},
     {'type': 'text', 'text': u'"I never look back, darling! It distracts from the now" - Edna Mode'},
     {'type': 'text', 'text': u'3:14 every night.'},
+    {'type': 'text', 'text': u'Mi tumblr > tu tumblr'},
 ]
